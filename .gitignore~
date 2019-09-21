@@ -1,0 +1,13 @@
+.h5ad
+.ipynb_checkpoints
+figure4.lymphoid.T/adata.lymph.obs.txt
+figure1.ct.diff/.ipynb_checkpoints
+##figure1.ct.diff/archive/.h5ad
+figure6.flare/.ipynb_checkpoints
+*.rda
+sftp-config.json
+figure2.prop.var/archive/*.expr/*
+figure2.prop.var/archive/*.deseq/*
+figure2.prop.var/*.expr/*
+figure2.prop.var/*.deseq/*
+figure1.ct.diff/adata.obs.V6.1.txt

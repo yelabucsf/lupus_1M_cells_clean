@@ -1,0 +1,267 @@
+.ipynb_checkpoints
+figure4.lymphoid.T/adata.lymph.obs.txt
+figure1.ct.diff/.ipynb_checkpoints
+figure1.ct.diff/adata.obs.txt
+figure2.mono/.ipynb_checkpoints
+figure3.T/.ipynb_checkpoints
+figure4.prop.var/.ipynb_checkpoints
+figure6.flare/.ipynb_checkpoints
+*.rda
+figure2.mono/ifn.analysis/v6.expr/*
+figure2.mono/ifn.analysis/v6.deseq/*
+figure2.mono/ifn.analysis/v5.expr/*
+figure2.mono/ifn.analysis/v5.deseq/*
+figure2.mono/ifn.analysis/v4.expr/v4.ifn.sig.txt
+figure2.mono/ifn.analysis/v4.expr/v4.ifn.binary.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.Prolif T.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.Prolif T.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.PBMC.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.PBMC.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.PBMC.counts.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.NK.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.NK.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.MK.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.MK.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.cDC.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.cDC.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD8+ T.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD8+ T.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD4+ T.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD4+ T.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD16 Mono.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD16 Mono.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD14 Mono.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.CD14 Mono.covariates.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.B.expr.txt
+figure2.mono/ifn.analysis/v4.expr/v4.full.B.covariates.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.Prolif.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.Prolif T.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.Progen.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.pDC.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.PBMC.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.NK.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.MK.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.cDC.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD8+.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD8+ T.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD4+.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD4+ T.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD16.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD16 Mono.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD14.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.CD14 Mono.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4.B.counts.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..Prolif T.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..Prolif T.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..Progen.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..Progen.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..pDC.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..pDC.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..PBMC.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..PBMC.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..NK.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..NK.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..MK.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..MK.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..cDC.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..cDC.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD8+ T.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD8+ T.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD4+ T.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD4+ T.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD16 Mono.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD16 Mono.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD14 Mono.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..CD14 Mono.deseq.sig.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..B.deseq.txt
+figure2.mono/ifn.analysis/v4.deseq/v4..B.deseq.sig.txt
+*.h5ad
+sftp-config.json
+figure2.prop.var/v6.1.deseq/v6.1..B.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..B.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..cDC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..cDC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..cM.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..cM.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..MK.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..MK.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..ncM.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..ncM.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..NK.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..NK.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..PBMC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..PBMC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..pDC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..pDC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..ProlifT.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..ProlifT.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..Tc.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..Tc.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..Th.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..Th.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1.B.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.cDC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.cM.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.MK.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.ncM.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.NK.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.PBMC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.pDC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Progen.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.ProlifT.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Tc.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Th.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.covariates.txt
+figure2.prop.var/v6.1.deseq/v6.1..B.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..B.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..cDC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..cDC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..cM.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..cM.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..MK.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..MK.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..ncM.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..ncM.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..NK.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..NK.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..PBMC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..PBMC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..pDC.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..pDC.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..ProlifT.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..ProlifT.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..Tc.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..Tc.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1..Th.deseq.sig.txt
+figure2.prop.var/v6.1.deseq/v6.1..Th.deseq.txt
+figure2.prop.var/v6.1.deseq/v6.1.B.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.cDC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.cM.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.MK.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.ncM.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.NK.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.PBMC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.pDC.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Progen.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.ProlifT.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Tc.counts.txt
+figure2.prop.var/v6.1.deseq/v6.1.Th.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.B.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cDC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.cM.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.MK.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ncM.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.NK.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.PBMC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.pDC.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Progen.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.ProlifT.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Tc.covariates.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.counts.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.covs.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.expr.genes.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.blind.expr.txt
+figure2.prop.var/v6.1.expr/v6.1.full.Th.covariates.txt
