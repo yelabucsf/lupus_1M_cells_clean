@@ -1,2 +1,0 @@
-*.h5ad filter=lfs diff=lfs merge=lfs -text
-adata.obs.V6.1.txt filter=lfs diff=lfs merge=lfs -text
