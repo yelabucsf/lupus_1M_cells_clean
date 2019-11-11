@@ -13,3 +13,5 @@ Figure 5: Genetics of SLE
 Figure 6: SLE Flares
 
 Once you've cloned the repo, make sure you create a `h5ad` directory and download the h5ad files from the following: https://ucsf.box.com/s/tds2gotok3lyeanlrt13prj40am5w720.
+
+Raw sequencing (`.fastq`) and alignment (`.bam`) files can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137029.
